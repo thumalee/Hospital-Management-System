@@ -1,0 +1,13 @@
+<context>
+
+
+<Resource name="jdbc/Hospital" 
+			auth="Container" type="javax.sql.DataSource"
+			username="sa" password="root"
+			driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+			url="jdbc:sqlserver://DESKTOP-POGEB1O\SQLEXPRESS;databaseName=Hospital;"
+			
+			/>
+
+
+</context>

@@ -1,0 +1,35 @@
+
+body
+{
+	background-image: url('../images/front.jpg') ;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	
+	
+}
+
+#header {width: 100%; background: #0775d3; margin-top: 40px; padding:15px 0px 15px 0px;}
+#header h1 {width: 100%; margin:auto; color: #FFFFFF;text-align: center;}
+
+.admin
+{
+	 margin-left: 330px;;
+  margin-top:250px;
+  width: 180px;
+}
+
+.user
+{
+	 margin-left: 140px;;
+  margin-top:252px;
+  width: 180px;
+}
+
+.register
+{
+	 margin-left: 170px;;
+  margin-top:260px;
+  width: 180px;
+}
